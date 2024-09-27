@@ -1,12 +1,7 @@
-## Hi there 👋
+# Projeto Integrador III
 
-<!--
+Esta organização trata da edição 2024.2 do projeto Integrador III, disciplina da Engenharia de Telecomunicações do Instituto Federal de Santa Catarina campus São José.
 
-**Here are some ideas to get you started:**
+O projeto é um sistema modular de coleta de dados da qualidade do ar, onde pode haver várias tecnologias envolvidas na transmissão de dados para um ponto central, onde esses dados são analisados para auxiliar a inferir sobre a real qualidade do ar na região da Grande Florianópolis.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Estão envolvidos o [prof. Ederson Torresini](https://github.com/ederson-torresini) e os alunos matriculados na disciplina.
